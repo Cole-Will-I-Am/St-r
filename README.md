@@ -29,6 +29,11 @@ what was *said* and what was *real*.
 > If an entry could appear unchanged in a high-school textbook, it has failed.
 > See [`docs/depth-rubric.md`](docs/depth-rubric.md).
 
+> **See the bar, don't just read about it.** The year
+> [`years/1800-1809/1800.md`](years/1800-1809/1800.md) is a fully-worked
+> **exemplar** — the depth, narrative pressure, and dot-connecting (1800 → 1801,
+> U.S.-centered) every future year is held to.
+
 ---
 
 ## The Three Minds

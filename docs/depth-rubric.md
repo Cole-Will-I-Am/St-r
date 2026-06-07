@@ -48,6 +48,14 @@ Surface knowledge is the floor, not the deliverable.
 
 ---
 
+## The reference exemplar
+
+[`years/1800-1809/1800.md`](../years/1800-1809/1800.md) is the worked example of
+this bar. If a year you've written reads more like a textbook than 1800 does, it
+is not done. Study how it pressures the "first peaceful transfer of power" myth,
+keeps Gabriel's gallows and Jefferson's election in the *same* frame, and traces
+Haiti → Louisiana → present-day counter-majoritarian politics.
+
 ## The single test (from the methodology)
 
 > **Does this entry change how a thoughtful reader understands the present?**
