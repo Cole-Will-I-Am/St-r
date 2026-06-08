@@ -16,7 +16,7 @@
 | 1815 | [`1815.md`](./1815.md) | ● synthesized |
 | 1816 | [`1816.md`](./1816.md) | ● synthesized |
 | 1817 | [`1817.md`](./1817.md) | ● synthesized |
-| 1818 | `1818.md` | ☐ not started |
+| 1818 | [`1818.md`](./1818.md) | ● synthesized |
 | 1819 | `1819.md` | ☐ not started |
 
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
