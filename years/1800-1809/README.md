@@ -16,7 +16,7 @@
 | 1805 | [`1805.md`](./1805.md) | ● synthesized |
 | 1806 | [`1806.md`](./1806.md) | ● synthesized |
 | 1807 | [`1807.md`](./1807.md) | ● synthesized |
-| 1808 | `1808.md` | ☐ not started |
+| 1808 | [`1808.md`](./1808.md) | ● synthesized |
 | 1809 | `1809.md` | ☐ not started |
 
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
