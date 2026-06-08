@@ -8,7 +8,7 @@
 
 | Year | File | Status |
 |---|---|---|
-| 1850 | `1850.md` | ☐ not started |
+| 1850 | [`1850.md`](./1850.md) | ● synthesized |
 | 1851 | `1851.md` | ☐ not started |
 | 1852 | `1852.md` | ☐ not started |
 | 1853 | `1853.md` | ☐ not started |
