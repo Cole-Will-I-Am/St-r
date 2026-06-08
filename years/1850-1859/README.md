@@ -17,23 +17,21 @@
 | 1856 | [`1856.md`](./1856.md) | ● synthesized |
 | 1857 | [`1857.md`](./1857.md) | ● synthesized |
 | 1858 | [`1858.md`](./1858.md) | ● synthesized |
-| 1859 | `1859.md` | ☐ not started |
-
+| 1859 | [`1859.md`](./1859.md) | ● synthesized |
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
 
 ---
 
 ## Macro-Arc of the Decade
-<!-- Cartographer. Write/refine after the years are drafted. See ../../docs/connections.md §3. -->
 
-- **Dominant threads:** _to be written_
-- **Threads resolved:** _to be written_
-- **Threads born:** _to be written_
-- **Movement toward today:** _to be written_
+- **Dominant threads:** _(synthesis pending)_
+- **Threads resolved:** _(synthesis pending)_
+- **Threads born:** _(synthesis pending)_
+- **Movement toward today:** _(synthesis pending)_
 
 ---
 
 ## Carry-in / Carry-out
 
-- **Inherited from 1840s (`../1840-1849/`):** _to be written_
-- **Handed to 1860s (`../1860-1869/`):** _to be written_
+- **Inherited from the 1840s:** _(synthesis pending)_
+- **Handed to the 1860s:** _(synthesis pending)_
