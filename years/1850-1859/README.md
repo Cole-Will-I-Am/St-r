@@ -16,7 +16,7 @@
 | 1855 | [`1855.md`](./1855.md) | ● synthesized |
 | 1856 | [`1856.md`](./1856.md) | ● synthesized |
 | 1857 | [`1857.md`](./1857.md) | ● synthesized |
-| 1858 | `1858.md` | ☐ not started |
+| 1858 | [`1858.md`](./1858.md) | ● synthesized |
 | 1859 | `1859.md` | ☐ not started |
 
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
