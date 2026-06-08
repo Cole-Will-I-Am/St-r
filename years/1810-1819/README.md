@@ -8,7 +8,7 @@
 
 | Year | File | Status |
 |---|---|---|
-| 1810 | `1810.md` | ☐ not started |
+| 1810 | [`1810.md`](./1810.md) | ● synthesized |
 | 1811 | `1811.md` | ☐ not started |
 | 1812 | `1812.md` | ☐ not started |
 | 1813 | `1813.md` | ☐ not started |
