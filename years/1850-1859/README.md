@@ -12,7 +12,7 @@
 | 1851 | [`1851.md`](./1851.md) | ● synthesized |
 | 1852 | [`1852.md`](./1852.md) | ● synthesized |
 | 1853 | [`1853.md`](./1853.md) | ● synthesized |
-| 1854 | `1854.md` | ☐ not started |
+| 1854 | [`1854.md`](./1854.md) | ● synthesized |
 | 1855 | `1855.md` | ☐ not started |
 | 1856 | `1856.md` | ☐ not started |
 | 1857 | `1857.md` | ☐ not started |
