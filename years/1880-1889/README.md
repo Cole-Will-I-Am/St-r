@@ -13,7 +13,7 @@
 | 1882 | [`1882.md`](./1882.md) | ● synthesized |
 | 1883 | [`1883.md`](./1883.md) | ● synthesized |
 | 1884 | [`1884.md`](./1884.md) | ● synthesized |
-| 1885 | `1885.md` | ☐ not started |
+| 1885 | [`1885.md`](./1885.md) | ● synthesized |
 | 1886 | `1886.md` | ☐ not started |
 | 1887 | `1887.md` | ☐ not started |
 | 1888 | `1888.md` | ☐ not started |
