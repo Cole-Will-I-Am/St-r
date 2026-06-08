@@ -10,7 +10,7 @@
 |---|---|---|
 | 1860 | [`1860.md`](./1860.md) | ● synthesized |
 | 1861 | [`1861.md`](./1861.md) | ● synthesized |
-| 1862 | `1862.md` | ☐ not started |
+| 1862 | [`1862.md`](./1862.md) | ● synthesized |
 | 1863 | `1863.md` | ☐ not started |
 | 1864 | `1864.md` | ☐ not started |
 | 1865 | `1865.md` | ☐ not started |
