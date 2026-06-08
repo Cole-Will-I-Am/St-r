@@ -16,7 +16,7 @@
 | 1835 | [`1835.md`](./1835.md) | ● synthesized |
 | 1836 | [`1836.md`](./1836.md) | ● synthesized |
 | 1837 | [`1837.md`](./1837.md) | ● synthesized |
-| 1838 | `1838.md` | ☐ not started |
+| 1838 | [`1838.md`](./1838.md) | ● synthesized |
 | 1839 | `1839.md` | ☐ not started |
 
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
