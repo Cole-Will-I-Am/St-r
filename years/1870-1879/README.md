@@ -10,7 +10,7 @@
 |---|---|---|
 | 1870 | [`1870.md`](./1870.md) | ● synthesized |
 | 1871 | [`1871.md`](./1871.md) | ● synthesized |
-| 1872 | `1872.md` | ☐ not started |
+| 1872 | [`1872.md`](./1872.md) | ● synthesized |
 | 1873 | `1873.md` | ☐ not started |
 | 1874 | `1874.md` | ☐ not started |
 | 1875 | `1875.md` | ☐ not started |
