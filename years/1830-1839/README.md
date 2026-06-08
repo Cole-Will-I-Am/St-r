@@ -14,7 +14,7 @@
 | 1833 | [`1833.md`](./1833.md) | ● synthesized |
 | 1834 | [`1834.md`](./1834.md) | ● synthesized |
 | 1835 | [`1835.md`](./1835.md) | ● synthesized |
-| 1836 | `1836.md` | ☐ not started |
+| 1836 | [`1836.md`](./1836.md) | ● synthesized |
 | 1837 | `1837.md` | ☐ not started |
 | 1838 | `1838.md` | ☐ not started |
 | 1839 | `1839.md` | ☐ not started |
