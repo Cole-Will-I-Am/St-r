@@ -9,7 +9,7 @@
 | Year | File | Status |
 |---|---|---|
 | 1800 | [`1800.md`](./1800.md) | ✓ reviewed — **exemplar / depth reference** |
-| 1801 | `1801.md` | ☐ not started |
+| 1801 | [`1801.md`](./1801.md) | ● synthesized |
 | 1802 | `1802.md` | ☐ not started |
 | 1803 | `1803.md` | ☐ not started |
 | 1804 | `1804.md` | ☐ not started |
