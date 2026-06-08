@@ -13,7 +13,7 @@
 | 1822 | [`1822.md`](./1822.md) | ● synthesized |
 | 1823 | [`1823.md`](./1823.md) | ● synthesized |
 | 1824 | [`1824.md`](./1824.md) | ● synthesized |
-| 1825 | `1825.md` | ☐ not started |
+| 1825 | [`1825.md`](./1825.md) | ● synthesized |
 | 1826 | `1826.md` | ☐ not started |
 | 1827 | `1827.md` | ☐ not started |
 | 1828 | `1828.md` | ☐ not started |
