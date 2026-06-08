@@ -14,7 +14,7 @@
 | 1863 | [`1863.md`](./1863.md) | ● synthesized |
 | 1864 | [`1864.md`](./1864.md) | ● synthesized |
 | 1865 | [`1865.md`](./1865.md) | ● synthesized |
-| 1866 | `1866.md` | ☐ not started |
+| 1866 | [`1866.md`](./1866.md) | ● synthesized |
 | 1867 | `1867.md` | ☐ not started |
 | 1868 | `1868.md` | ☐ not started |
 | 1869 | `1869.md` | ☐ not started |
