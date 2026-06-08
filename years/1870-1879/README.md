@@ -8,7 +8,7 @@
 
 | Year | File | Status |
 |---|---|---|
-| 1870 | `1870.md` | ☐ not started |
+| 1870 | [`1870.md`](./1870.md) | ● synthesized |
 | 1871 | `1871.md` | ☐ not started |
 | 1872 | `1872.md` | ☐ not started |
 | 1873 | `1873.md` | ☐ not started |
