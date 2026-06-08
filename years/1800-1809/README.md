@@ -11,7 +11,7 @@
 | 1800 | [`1800.md`](./1800.md) | ✓ reviewed — **exemplar / depth reference** |
 | 1801 | [`1801.md`](./1801.md) | ● synthesized |
 | 1802 | [`1802.md`](./1802.md) | ● synthesized |
-| 1803 | `1803.md` | ☐ not started |
+| 1803 | [`1803.md`](./1803.md) | ● synthesized |
 | 1804 | `1804.md` | ☐ not started |
 | 1805 | `1805.md` | ☐ not started |
 | 1806 | `1806.md` | ☐ not started |
