@@ -11,7 +11,7 @@
 | 1840 | [`1840.md`](./1840.md) | ● synthesized |
 | 1841 | [`1841.md`](./1841.md) | ● synthesized |
 | 1842 | [`1842.md`](./1842.md) | ● synthesized |
-| 1843 | `1843.md` | ☐ not started |
+| 1843 | [`1843.md`](./1843.md) | ● synthesized |
 | 1844 | `1844.md` | ☐ not started |
 | 1845 | `1845.md` | ☐ not started |
 | 1846 | `1846.md` | ☐ not started |
