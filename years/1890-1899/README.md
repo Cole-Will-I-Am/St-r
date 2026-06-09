@@ -13,7 +13,7 @@
 | 1892 | [`1892.md`](./1892.md) | ● synthesized |
 | 1893 | [`1893.md`](./1893.md) | ● synthesized |
 | 1894 | [`1894.md`](./1894.md) | ● synthesized |
-| 1895 | `1895.md` | ☐ not started |
+| 1895 | [`1895.md`](./1895.md) | ● synthesized |
 | 1896 | `1896.md` | ☐ not started |
 | 1897 | `1897.md` | ☐ not started |
 | 1898 | `1898.md` | ☐ not started |
