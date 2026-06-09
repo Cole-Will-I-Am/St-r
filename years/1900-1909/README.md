@@ -9,7 +9,7 @@
 | Year | File | Status |
 |---|---|---|
 | 1900 | [`1900.md`](./1900.md) | ● synthesized |
-| 1901 | `1901.md` | ☐ not started |
+| 1901 | [`1901.md`](./1901.md) | ● synthesized |
 | 1902 | `1902.md` | ☐ not started |
 | 1903 | `1903.md` | ☐ not started |
 | 1904 | `1904.md` | ☐ not started |
