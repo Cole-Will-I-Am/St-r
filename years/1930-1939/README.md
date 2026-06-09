@@ -11,7 +11,7 @@
 | 1930 | [`1930.md`](./1930.md) | ● synthesized |
 | 1931 | [`1931.md`](./1931.md) | ● synthesized |
 | 1932 | [`1932.md`](./1932.md) | ● synthesized |
-| 1933 | `1933.md` | ☐ not started |
+| 1933 | [`1933.md`](./1933.md) | ● synthesized |
 | 1934 | `1934.md` | ☐ not started |
 | 1935 | `1935.md` | ☐ not started |
 | 1936 | `1936.md` | ☐ not started |
