@@ -16,7 +16,7 @@
 | 1895 | [`1895.md`](./1895.md) | ● synthesized |
 | 1896 | [`1896.md`](./1896.md) | ● synthesized |
 | 1897 | [`1897.md`](./1897.md) | ● synthesized |
-| 1898 | `1898.md` | ☐ not started |
+| 1898 | [`1898.md`](./1898.md) | ● synthesized |
 | 1899 | `1899.md` | ☐ not started |
 
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
