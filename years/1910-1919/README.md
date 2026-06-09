@@ -15,7 +15,7 @@
 | 1914 | [`1914.md`](./1914.md) | ● synthesized |
 | 1915 | [`1915.md`](./1915.md) | ● synthesized |
 | 1916 | [`1916.md`](./1916.md) | ● synthesized |
-| 1917 | `1917.md` | ☐ not started |
+| 1917 | [`1917.md`](./1917.md) | ● synthesized |
 | 1918 | `1918.md` | ☐ not started |
 | 1919 | `1919.md` | ☐ not started |
 
