@@ -16,7 +16,7 @@
 | 1905 | [`1905.md`](./1905.md) | ● synthesized |
 | 1906 | [`1906.md`](./1906.md) | ● synthesized |
 | 1907 | [`1907.md`](./1907.md) | ● synthesized |
-| 1908 | `1908.md` | ☐ not started |
+| 1908 | [`1908.md`](./1908.md) | ● synthesized |
 | 1909 | `1909.md` | ☐ not started |
 
 (Status: ☐ not started · ◐ in debate · ● synthesized · ✓ reviewed)
