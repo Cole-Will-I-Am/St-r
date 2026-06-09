@@ -9,7 +9,7 @@
 | Year | File | Status |
 |---|---|---|
 | 1930 | [`1930.md`](./1930.md) | ● synthesized |
-| 1931 | `1931.md` | ☐ not started |
+| 1931 | [`1931.md`](./1931.md) | ● synthesized |
 | 1932 | `1932.md` | ☐ not started |
 | 1933 | `1933.md` | ☐ not started |
 | 1934 | `1934.md` | ☐ not started |
