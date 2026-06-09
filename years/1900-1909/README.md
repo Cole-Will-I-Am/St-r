@@ -12,7 +12,7 @@
 | 1901 | [`1901.md`](./1901.md) | ● synthesized |
 | 1902 | [`1902.md`](./1902.md) | ● synthesized |
 | 1903 | [`1903.md`](./1903.md) | ● synthesized |
-| 1904 | `1904.md` | ☐ not started |
+| 1904 | [`1904.md`](./1904.md) | ● synthesized |
 | 1905 | `1905.md` | ☐ not started |
 | 1906 | `1906.md` | ☐ not started |
 | 1907 | `1907.md` | ☐ not started |
