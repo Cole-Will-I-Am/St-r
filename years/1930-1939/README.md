@@ -13,7 +13,7 @@
 | 1932 | [`1932.md`](./1932.md) | ● synthesized |
 | 1933 | [`1933.md`](./1933.md) | ● synthesized |
 | 1934 | [`1934.md`](./1934.md) | ● synthesized |
-| 1935 | `1935.md` | ☐ not started |
+| 1935 | [`1935.md`](./1935.md) | ● synthesized |
 | 1936 | `1936.md` | ☐ not started |
 | 1937 | `1937.md` | ☐ not started |
 | 1938 | `1938.md` | ☐ not started |
