@@ -12,7 +12,7 @@
 | 1921 | [`1921.md`](./1921.md) | ● synthesized |
 | 1922 | [`1922.md`](./1922.md) | ● synthesized |
 | 1923 | [`1923.md`](./1923.md) | ● synthesized |
-| 1924 | `1924.md` | ☐ not started |
+| 1924 | [`1924.md`](./1924.md) | ● synthesized |
 | 1925 | `1925.md` | ☐ not started |
 | 1926 | `1926.md` | ☐ not started |
 | 1927 | `1927.md` | ☐ not started |
